@@ -1,0 +1,19 @@
+# Need to Know Sensor Information
+
+**Author(s): __*Nick Straub-Deck*__
+
+---
+
+## MQ-7 Carbon Monoxide Gas Sensor ADC121C 12-Bit ADC I2C Mini Module
+
+Dosen't appear to need any sort of special libraries but won't know until we plug it in. May need a convertor for the raspberry Pi.
+We will know furthur down the line when we are able to work on coding. 
+Can be used with the arduino though.
+
+https://store.ncd.io/product/mq-7-carbon-monoxide-gas-sensor-adc121c-12-bit-adc-i2c-mini-module/
+
+## Adafruit CCS811 Air Quality Sensor Breakout - VOC and eCO2
+
+Datasheet: https://cdn-shop.adafruit.com/product-files/3566/3566_datasheet.pdf
+
+

@@ -1,0 +1,7 @@
+In order to run C0 scanning you need to navigate to the examples in t04( this is the same library we used for teamwork 4). Select the example ads1115_simpletest.py and run it with the C0 scanner set up.
+
+This runs the scan
+
+C02 Scanner
+
+This has to be run on a terminel. Follow the commands in the command document but replace the change directory to wherever your examples are stored. RUn the same file it has you doing.

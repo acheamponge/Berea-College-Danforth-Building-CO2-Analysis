@@ -1,0 +1,5 @@
+git clone https://github.com/adafruit/Adafruit_CCS811_python.git
+
+cd Adafruit_CCS811_python/examples
+
+sudo python CCS811_example.py

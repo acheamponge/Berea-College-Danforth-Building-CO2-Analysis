@@ -1,0 +1,6 @@
+- set up pi to record data from our sensors
+- finish coding python file to save data from sensors
+- locate key areas to record data (areas with spiked levels of CO or CO2)
+- record CO and CO2 levels in that area
+- graph the data
+ 

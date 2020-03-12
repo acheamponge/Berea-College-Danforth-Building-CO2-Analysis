@@ -1,0 +1,27 @@
+# Prelim Code Structure
+
+
+**Author(s)**:_*Nick Straub-Deck*_
+
+---
+## Start
+Declare global variables for the CO and CO2 levels that will be changable through the  entire project. Will also need to delcare any
+variables that need to be included if a new library is needed for this equipmen if they need to be included. Create a file for the data 
+retention regarding the information gathered during the testing so it can be stored and displayed at some point in the future. 
+
+## Start of Info Gathering
+After connecting the parts together, set up the info gathering functions via the way the sensors require. If they need any special 
+variables/libraries/inputs, set them up here. Using this functions set the limit for how much air we are measuring and the time span it has
+to wait before scanning again.
+
+## Actual Info Gathering
+Using the new limits and the variables we set up, create the main section of the code that  will do all the important bits. If we have 
+missed something along the way, go back and add it to the earlier steps. Since we are sensing two things we will need to have the two 
+seperate values returned to us, one for each of the C0 and C02 levels
+
+## Data Logging
+Teamwork four will allow us to know how to do this step. Will data log to a table for reading. WIll save if able to. Might add a feature to
+display the data if possible.
+
+## Presentaion
+Might be done in the data logging step. If it is not, we will save the file and display the data here.
